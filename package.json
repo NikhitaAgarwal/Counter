@@ -1,7 +1,7 @@
 {
   "name": "counter",
   "version": "0.1.0",
-  "home":"https://NikhitaAgarwal.githun.io/Counter_Application",
+  "home":"https://NikhitaAgarwal.github.io/Counter_Application",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
